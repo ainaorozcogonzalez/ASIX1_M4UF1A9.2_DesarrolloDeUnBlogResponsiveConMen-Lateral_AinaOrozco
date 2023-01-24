@@ -77,7 +77,7 @@ body{
     float: left;
 }
 
-.column-75{
+.column-7{
     width: 75%;
     float: left;
 }
@@ -107,24 +107,24 @@ header{
 img{
     width: 100%;
 }
-#img-1{
-    height: 50vh;
-    background-image: url("../img/arya-krisdyantara-LTEfj149DLQ-unsplash.jpg");
-    background-size: cover;
-    background-position: center;
-}
-#img-2{
-    height: 50vh;
-    background-image: url("../img/colin-lloyd-DvVcwl4cUsc-unsplash.jpg");
-    background-size: cover;
-    background-position: center;
-}
-#img-3{
-    height: 50vh;
-    background-image: url("../img/scott-rodgerson-G6dXvXN2gVM-unsplash.jpg");
-    background-size: cover;
-    background-position: center;
-}
+    #img-1{
+        height: 50vh;
+        background-image: url("../img/arya-krisdyantara-LTEfj149DLQ-unsplash.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+    #img-2{
+        height: 50vh;
+        background-image: url("../img/colin-lloyd-DvVcwl4cUsc-unsplash.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+    #img-3{
+        height: 50vh;
+        background-image: url("../img/scott-rodgerson-G6dXvXN2gVM-unsplash.jpg");
+        background-size: cover;
+        background-position: center;
+    }
 #card-1{
     height: 50vh;
     background-image: url("../img/isabela-kronemberger-hxOg4o5oNFA-unsplash.jpg");
@@ -194,7 +194,7 @@ footer p{
         width: 50%;
     }
 
-    .column-75,.column-nav{
+    .column-7,.column-nav{
         width: 100%;
     }
 }
